@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.about-Text{
+  width: 90vw;
+  text-align: center;
+  margin: auto;
+  margin-top: 20vh;
+}
